@@ -1,0 +1,4 @@
+interface:
+  display_name: "AFED Timesheet Assistant"
+  short_description: "Build and enter evidence-backed timesheets"
+  default_prompt: "Use $afed-fill-timesheets to review my Outlook and Teams activity, prepare an evidence-backed timesheet plan, and enter it after I approve."
